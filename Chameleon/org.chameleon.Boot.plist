@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DSDT</key>
+	<string>/Extra/dsdt.aml</string>
+	<key>DropSSDT</key>
+	<string>Yes</string>
+	<key>Graphics Mode</key>
+	<string>1366x768x32</string>
+	<key>GraphicsEnabler</key>
+	<string>Yes</string>
+	<key>HD4000PlatformId</key>
+	<string>5</string>
+	<key>IGPlatformID</key>
+	<string>01660003</string>
+	<key>IntelCapriFB</key>
+	<string>3</string>
+	<key>Kernel Flags</key>
+	<string>-v dart=0 debug=8 ahcidisk=1</string>
+	<key>Legacy Logo</key>
+	<string>Yes</string>
+	<key>SMBIOS</key>
+	<string>/Extra/SMBios.plist</string>
+	<key>SkipAtiGfx</key>
+	<string>Yes</string>
+	<key>SkipNvidiaGfx</key>
+	<string>Yes</string>
+	<key>Theme</key>
+	<string>Choose_Your_OS(black)</string>
+	<key>Timeout</key>
+	<string>3</string>
+	<key>USBBusFix</key>
+	<string>Yes</string>
+	<key>UseKernelCache</key>
+	<string>Yes</string>
+</dict>
+</plist>
